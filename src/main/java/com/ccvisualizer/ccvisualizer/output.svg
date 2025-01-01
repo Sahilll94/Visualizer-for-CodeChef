@@ -151,7 +151,7 @@
             </g>
            </g>
           </svg> Max Rating</td>
-         <td id="max-r" style="color: #666666">1141</td>
+         <td id="max-r" style="color: #666666">1162</td>
         </tr>
         <tr style="animation-delay: 300ms">
          <td style="color:#58a6ff">
@@ -223,7 +223,7 @@
             </g>
            </g>
           </svg> Accepted</td>
-         <td id="accepted" style="color: green">20</td>
+         <td id="accepted" style="color: green">21</td>
         </tr>
        </tbody>
       </table></b>
